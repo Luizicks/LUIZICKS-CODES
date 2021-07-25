@@ -1,4 +1,4 @@
-print('VOCÊ GOSTARIA DE CONVERTER UMA TEMP EM: \n1-CELSIUS \n2-KELVIN \n3-FAHRENHEIT')
+print('VOCÊ GOSTARIA DE CONVERTER UMA TEMP EM: \n1-CELSIUS \n2-KELVIN \n3-FAHRENHEIT ')
 inicial = int(input('DIGITE AQUI: '))
 if(inicial == 1):
     t1 = float(input('Qual a temperatura inicial em Celsius? '))
