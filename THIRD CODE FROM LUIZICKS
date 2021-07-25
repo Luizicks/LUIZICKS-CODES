@@ -1,0 +1,7 @@
+print('====== DESAFIO 02 ======')
+print('Seja bem vindo ao cartório web!! Por gentileza, responda o questionário a seguir.')
+dia = input('Qual o dia que você nasceu?(Número)')
+mes = input('Certo, agora, em qual mês você nasceu?(Número) ')
+ano = input('E por fim, em qual ano você nasceu?(Número) ')
+print('OK!, você nasceu em', dia+'/'+mes+'/'+ano+'!!!')
+
